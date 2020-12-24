@@ -1,57 +1,82 @@
-#### Please use the [reference](https://github.com/virtual-labs/ph3-exp-dev-process/blob/main/storyboard/README.org) document to fill this template. Follow the [link](https://github.com/virtual-labs/ph3-exp-dev-process/tree/main/sample/storyboard) to view a sample storyboard document. 
+# Round 2
 
+**Experiment 1: Arithmetic Operations**
 
+### 1. Story Outline :
 
-## Storyboard
+<div align="justify"> The experiment involves the use of python simulator implementing various arithmetic operations. Performing arithmetic operations on large numbers can be a difficult job to accomplish. This difficulty can be countered with the help of python simulator that provides a friendly programming environment to the beginners, so that every new user can easily perform arithmetic operations and can implement in various python programs. <br>
 
-Delete this line before submission : The core principle of storyboarding is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
-
-### 1. Story Outline:
-
-Describe outline here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
-
-### 2. Story:
-
-Describe the Story introduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+### 2. Story :
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+
+<h2>Construction of the set-up:</h2>
+<div align = "justify">For better visualization, the simulator is divided into three sections: 
+<br>Input Section: Helps in interacting with the user (accepting numbers as inputs).
+<br>Code Section: Displays the subsequent code for each type of choice the user takes to perform any operation.
+<br>Output Section: Displays the output that will be generated after the code runs successfully.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+
+| Sr. No | Learning Objective                                                                                                                              | Cognitive Level | Action Verb |
+| :----- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- | :---------: |
+| 1.     | User will be able to: <br>recall the various arithmetic operations.                                                                             | Recall          |  Identify   |
+| 2.     | User will be able to: <br>understand the types of arithmetic operators in Python language <br>and how to perform various arithmetic operations. | Understand      |  Describe   |
+| 3.     | User will be able to: <br>implement/use arithmetic operators on input values in Python programs.                                                | Apply           |  Implement  |
+| 4.     | User will be able to: <br>take the assignment to evaluate what they learnt and enhance his capabilities.                                        | Analyze         |   Examine   |
+
+Enhance conceptual and logical skill
+</b>
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in introductory & pedagogy documnets.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+The simulator tab would allow:<br> <br>
+
+<dd> 1.	The setup consists of a simulator that helps in performing arithmetic operations with the use of python interpreter.
+2.	Additionally, there will be three sections to work upon: Input Section, Code Section and Output Section.
+3.	The code section will display the python code for the type of operation you want to perform.
+4.	Once the experiment has been performed, you can take the quiz.
+
+</dd>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Assessment Questions:<br>
 
-##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+<dd><b> 1. Arithmetic operators are usually-<br>
+a.	Unary<br>
+b.	Binary<br>
+c.	Ternary<br>
+d.	None of the Above<br></dd><br></b><br>
+<dd><b>2.	Which of the following can be operands of arithmetic operators?<br>
+a.	Numeric<br>
+b.	Boolean<br>
+c.	Characters<br>
+d.	Both a & c
+<br><br></b>
+<dd>
+<b> 3.	What is the output of the following code?<br>
+print((a+b)*d-c)
+a)	10<br>
+b)	-270<br>
+c)	23<br>
+d)	None of the above<br></b>
+</dd>
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+
+<dd>The python interpreter has a number of arithmetic operations. They are loaded automatically as the interpreter starts and are always available. Thus, it makes it easier for a programmer to perform small but complex operations with ease.
+</dd>
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
 
+### 3. Flowchart
 
-### 3. Flowchart 4
-Link to flow chart Here : Store in the  /flowchart folder within pedagogy folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
+<img src="flowchart/1.png" alt="Flow Chart Image here"/>
 
-### 4. Mindmap:
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
+### 4. Mindmap
 
-### 5. Storyboard :
-
-Link the storyboard (.gif file ) in here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool).
+<img src="mindmap/1.png" alt="mindmap Image here"/>
+ 
+### 5. Storyboard 
+<img src="storyboard/Arithmetic.gif" alt="Gif here">
