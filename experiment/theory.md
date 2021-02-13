@@ -1,4 +1,4 @@
-### Theory
+### <b>Theory</b>
 An operator is a symbol that tells the compiler that either a mathematical or a logical manipulation has to be done. In this lab you will be studying about the Arithmetic Operations.<br>
 They are of the following types :<br>
 <b>Addition Operator ( + )</b><br>

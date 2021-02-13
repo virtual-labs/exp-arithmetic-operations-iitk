@@ -39,9 +39,9 @@ Sr No. |  Focus Area
 
 Sr No. |  LO ID |    Learning Objective  | Cognitive Level | Action Verb
 :--|:--|:--|:--|:-:
-1.| 583 | Student will be able to recall the various arithmetic operations. | Remember | Recall
+1.| 583 | Student will be able to recall the various arithmetic operations. | Recall | Identify
 2.| 584 | Student will be able to describe the types of arithmetic operators in Python programming language and how to perform various arithmetic operations. | Understand| Describe
-
+3.| 585 | Student will be able to perform calculation on input values using arithmetic operators in Python programs | Apply | Calculate
 
 <br/>
 <div align="right">
@@ -73,9 +73,9 @@ Summative Assessment | There are various operators used in the python programmin
 
 LO ID |    Learning Objective  | Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-583 | Student will be able to recall the various arithmetic operations | Student will select arithmetic operators from the dropdown | What are the arithmetic operators? <br> A. addition <br> B. Subtraction <br> C. Multiplication <br> D.Division <br> <b>E. All of the above</b>
-584 | Student will be able to describe the types of arithmetic operators in Python Programming language and how to perform various arithmetic operations. | Student will select arithmetic operators from the dropdown and the enter the value of operands in the text field. | Which operator performs X + Y in the given option where X and Y are any operands?<br> A. Multiplication <br> B. Division <br><b> C. Addition</b> <br>D. Division
-
+583 | Student will be able to recall the various arithmetic operations | Student will select arithmetic operators from the dropdown | What are the arithmetic operators? <br> A. addition <br> B. Subtraction <br> C. Multiplication <br> D.Division <br> E. All of the above
+584 | Student will be able to describe the types of arithmetic operators in Python Programming language and how to perform various arithmetic operations. | Student will select arithmetic operators from the dropdown and the enter the value of operands in the text field. | Which operator performs X + Y in the given option where X and Y are any operands? <br> A. Multiplication <br> B. Division <br> C. Addition <br>D. Division
+583 | Student will be able to perform calculation on input values using arithmetic operators in Python Programs | Student enters different values in the text field for a particular operator. | What is the correct answer for -8 multiply 5 divide 5 add 4?<br> A. 12 <br> B. 60 <br> C. 204
 
 
 <div align="right">
@@ -91,17 +91,8 @@ LO ID |    Learning Objective  | Task to be performed by <br> the student  in th
 
 Sr No. |	What will student do	|  What will simulator do | Purpose
 :--|:--|:--|:-:
-1.|Student will click on simulator tab.| 1. Simulator will be opened | 1. To start simulator.|
-2.|Student will click on simulator drop down|2. Simulator will show all the options in drop down.|2. To show all the options in drop down of simulator.|
-3.|Student will select the option in drop down|3.Simulator will show the selected items|3. To let student choose one of the option in drop down.|
-4.|Student will enter the values in text fields and click start|4. Simulator will show program steps|4. To present a code to the user for better understanding.|
-5.|Student will click “Next” button|5. Simulator will highlight each executing line and its output|5. To explain the steps involved and meaning of each line of code.|
-6.|Student will click “Reset" button.|6. Simulator will be restarted.| 6. To restart the simulator.|
-<<<<<<< HEAD
+1.|  1. Student will click on simulator tab. <br> 2. Student will click on simulator drop down.<br>3. Student will select the option in drop down.<br> 4. Student will enter the values in text elds and click start.<br>5. Student will click “Next” button. <br> 6. Student will click “Reset" button. | 1. Simulator will be opened.<br>2. Simulator will show all the options in drop down.<br>3.Simulator will show the selected items.<br>4. Simulator will show program steps.<br>5. Simulator will highlight each executing line and its output.<br>6. Simulator will be restarted. | 1. To start simulator.<br> 2. To show all the options in drop down of simulator .<br>3. To let student choose one of the option in drop down.<br>4. To present a code to the user for better understanding.<br>5. To explain the steps involved and meaning of each line of code.<br>6. To restart the simulator.
 
-
-=======
->>>>>>> 2db0d1f9c2196355a597b2dbc09a2b573a961fc0
  <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>

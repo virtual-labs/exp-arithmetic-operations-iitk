@@ -90,7 +90,7 @@
   
     const myQuestions = [
       {
-        question: "1.Is Python a case sensitive language?",  ///// Write the question inside double quotes
+        question: "Is Python a case sensitive language?",  ///// Write the question inside double quotes
         answers: {
           a: "No",                  ///// Write the option 1 inside double quotes
           b: "Yes"                 ///// Write the option 2 inside double quotes
@@ -99,7 +99,7 @@
       },
   
       {
-       question: "2.What will be the output of the following code?<br>x= 2,7<br>Print(x)",  ///// Write the question inside double quotes
+       question: "What will be the output of the following code?<br>x= 2,7<br>Print(x)",  ///// Write the question inside double quotes
         answers: {
           a: "2",                  ///// Write the option 1 inside double quotes
           b: "7",
@@ -109,7 +109,7 @@
         correctAnswer: "c"                ///// Write the correct option inside double quotes
       },
       {
-        question: "3.What will be the output of the following code?<br>x=5.5<br>y=5.5<br>Print(x+y)",  ///// Write the question inside double quotes
+        question: "What will be the output of the following code?<br>x=5.5<br>y=5.5<br>Print(x+y)",  ///// Write the question inside double quotes
          answers: {
            a: "11",                  ///// Write the option 1 inside double quotes
            b: "11.0",                  ///// Write the option 2 inside double quotes
@@ -119,7 +119,7 @@
          correctAnswer: "b"                ///// Write the correct option inside double quotes
        },
        {
-        question: "4.What will be the output of the following code?<br>a=25.0<br>b=5.0<br>Print(a%b)",  ///// Write the question inside double quotes
+        question: "What will be the output of the following code?<br>a=25.0<br>b=5.0<br>Print(a%b)",  ///// Write the question inside double quotes
          answers: {
            a: "5",                  ///// Write the option 1 inside double quotes
            b: "5.0",                  ///// Write the option 2 inside double quotes
@@ -129,7 +129,7 @@
          correctAnswer: "d"                ///// Write the correct option inside double quotes
        },
        {
-        question: "5.What will be the output of the following code?<br>i=47<br>j=25<br>i=i%10<br>j=j%10<br>Print(i*j)",  ///// Write the question inside double quotes
+        question: "What will be the output of the following code?<br>i=47<br>j=25<br>i=i%10<br>j=j%10<br>Print(i*j)",  ///// Write the question inside double quotes
          answers: {
            a: "8",                  ///// Write the option 1 inside double quotes
            b: "53",                  ///// Write the option 2 inside double quotes

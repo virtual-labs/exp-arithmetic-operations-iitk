@@ -1,15 +1,14 @@
-### Post-Test
-
-1. Is Python a case sensitive language?<br>
-   a.No<br>
-<b>b.Yes</b><br><br>
-2.What will be the output of the following code?<br>
+### <b>Post-Test</b>
+<dd>1.Is Python a case sensitive language?<br>
+a.No<br>
+<b>b.Yes</b><br></dd><br>
+<dd>2.What will be the output of the following code?<br>
 x= 2,7<br>
 Print(x)<br>
 a.2<br>
 b.7<br>
 <b>c.(2,7)</b><br>
-d.Error<br><br>
+d.Error<br></dd><br>
 <dd>3.What will be the output of the following code?<br>
 x=5.5<br> 
 y=5.5<br>

@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "1.What is the output of 2**3?",  ///// Write the question inside double quotes
+      question: "What is the output of 2**3?",  ///// Write the question inside double quotes
       answers: {
         a: "6",                  ///// Write the option 1 inside double quotes
         b: "12",                 ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-     question: "2.What is answer of this expression, 10 % 3 is?",  ///// Write the question inside double quotes
+     question: "What is answer of this expression, 10 % 3 is?",  ///// Write the question inside double quotes
       answers: {
         a: "3.33",                  ///// Write the option 1 inside double quotes
         b: "10",                  ///// Write the option 2 inside double quotes
@@ -111,7 +111,7 @@
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
     {
-      question: "3.What is the output of this expression,2**1**2*2**3?",  ///// Write the question inside double quotes
+      question: "What is the output of this expression,2**1**2*2**3?",  ///// Write the question inside double quotes
        answers: {
          a: "3",                  ///// Write the option 1 inside double quotes
          b: "32",                  ///// Write the option 2 inside double quotes
@@ -121,7 +121,7 @@
        correctAnswer: "b"                ///// Write the correct option inside double quotes
      },
      {
-      question: "4.The equal sign = is:",  ///// Write the question inside double quotes
+      question: "The equal sign = is:",  ///// Write the question inside double quotes
        answers: {
          a: "Boolean operator",                  ///// Write the option 1 inside double quotes
          b: "Comparison operator",                  ///// Write the option 2 inside double quotes
@@ -131,7 +131,7 @@
        correctAnswer: "c"                ///// Write the correct option inside double quotes
      },
      {
-      question: "5.Which one of the following have the same precedence?",  ///// Write the question inside double quotes
+      question: "Which one of the following have the same precedence?",  ///// Write the question inside double quotes
        answers: {
          a: "* and /",                  ///// Write the option 1 inside double quotes
          b: "+ and -",                  ///// Write the option 2 inside double quotes
