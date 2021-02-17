@@ -1,4 +1,3 @@
-### <b>Procedure</b>
 <h4>Steps of simulator :</h4>
                     1. Read the simulator details.<br>
                     2. Enter the values you want to operate.<br>
