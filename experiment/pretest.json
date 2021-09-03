@@ -1,16 +1,46 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "What is the output of 2**3?",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "6",
+		"b": "12",
+		"c": "8",
+		"d": "18"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "c"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "What is answer of this expression, 10 % 3 is?",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "3.33",
+		"b": "10",
+		"c": "3",
+		"d": "1"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What is the output of this expression,2**1**2*2**3?",
+	"answers": {
+		"a": "3",
+		"b": "32",
+		"c": "34",
+		"d": "Error"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The equal sign = is:",
+	"answers": {
+		"a": "Boolean operator",
+		"b": "Comparison operator",
+		"c": "Assignment operator",
+		"d": "Logical operator"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which one of the following have the same precedence?",
+	"answers": {
+		"a": "* and /",
+		"b": "+ and -",
+		"c": "Both a and b",
+		"d": "None of the mentioned"
 	},
 	"correctAnswer": "c"
 }]
