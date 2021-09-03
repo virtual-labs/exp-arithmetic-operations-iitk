@@ -1,16 +1,44 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "Is Python a case sensitive language?",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "No",
+		"b": "Yes"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "What will be the output of the following code?<br>x= 2,7<br>Print(x)",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "2",
+		"b": "7",
+		"c": "(2,7)",
+		"d": "Error"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What will be the output of the following code?<br>x=5.5<br>y=5.5<br>Print(x+y)",
+	"answers": {
+		"a": "11",
+		"b": "11.0",
+		"c": "10",
+		"d": "0"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What will be the output of the following code?<br>a=25.0<br>b=5.0<br>Print(a%b)",
+	"answers": {
+		"a": "5",
+		"b": "5.0",
+		"c": "0",
+		"d": "0.0"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What will be the output of the following code?<br>i=47<br>j=25<br>i=i%10<br>j=j%10<br>Print(i*j)",
+	"answers": {
+		"a": "8",
+		"b": "53",
+		"c": "35",
+		"d": "72"
 	},
 	"correctAnswer": "c"
 }]
