@@ -19,12 +19,12 @@
 }, {
 	"question": "What is the output of this expression,2**1**2*2**3?",
 	"answers": {
-		"a": "3",
+		"a": "16",
 		"b": "32",
 		"c": "34",
 		"d": "Error"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "a"
 }, {
 	"question": "The equal sign (=) is:",
 	"answers": {
