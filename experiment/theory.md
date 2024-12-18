@@ -32,7 +32,7 @@ To get the correct answer of the above example, we will type cast it using float
 Program:<br>
 <img src="images/img4.PNG"><br>
 Output:<br>
-x/y = 3.0<br><br>
+x/y = 3<br><br>
 Example : float(6 / 4)<br> 
 Answer : Now, the output will be changed into float type and the answer will be 1.5.<br>
 float(6 / 4) = 1.5<br>
