@@ -1,0 +1,46 @@
+[{
+	"question": "What is the output of 2**3?",
+	"answers": {
+		"a": "6",
+		"b": "12",
+		"c": "8",
+		"d": "18"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What is answer of this expression, 10 % 3 is?",
+	"answers": {
+		"a": "3.33",
+		"b": "10",
+		"c": "3",
+		"d": "1"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What is the output of this expression,2**1**2*2**3?",
+	"answers": {
+		"a": "16",
+		"b": "32",
+		"c": "34",
+		"d": "Error"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The equal sign (=) is:",
+	"answers": {
+		"a": "Boolean operator",
+		"b": "Comparison operator",
+		"c": "Assignment operator",
+		"d": "Logical operator"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which one of the following have the same precedence?",
+	"answers": {
+		"a": "* and /",
+		"b": "+ and -",
+		"c": "Both a and b",
+		"d": "None of the mentioned"
+	},
+	"correctAnswer": "c"
+}]
