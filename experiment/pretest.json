@@ -26,7 +26,7 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "The equal sign = is:",
+	"question": "The equal sign (=) is:",
 	"answers": {
 		"a": "Boolean operator",
 		"b": "Comparison operator",
